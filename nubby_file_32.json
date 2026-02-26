@@ -1,0 +1,1480 @@
+{
+    "analytics_id": "71dfc3dc38d5713e87a05d42e5a67065",
+    "doing_deep_historical_index": false,
+    "messages": [
+        [
+            {
+                "attachments": [],
+                "author": {
+                    "accent_color": null,
+                    "avatar": "c2126625f5397fd0b4a5626dd4216f6d",
+                    "avatar_decoration_data": {
+                        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+                        "expires_at": null,
+                        "sku_id": "1293373563184877618"
+                    },
+                    "banner": null,
+                    "banner_color": null,
+                    "clan": null,
+                    "collectibles": null,
+                    "discriminator": "0",
+                    "display_name_styles": {
+                        "colors": [],
+                        "effect_id": 1,
+                        "font_id": 11
+                    },
+                    "flags": 128,
+                    "global_name": null,
+                    "id": "588040592018374657",
+                    "primary_guild": null,
+                    "public_flags": 128,
+                    "username": "easternstride"
+                },
+                "channel_id": "1263607840619364383",
+                "components": [],
+                "content": "fair enough",
+                "edited_timestamp": null,
+                "embeds": [],
+                "flags": 0,
+                "hit": true,
+                "id": "1476283513518162044",
+                "mention_everyone": false,
+                "mention_roles": [],
+                "mentions": [],
+                "pinned": false,
+                "timestamp": "2026-02-25T18:23:37.644000+00:00",
+                "tts": false,
+                "type": 0
+            }
+        ],
+        [
+            {
+                "attachments": [],
+                "author": {
+                    "accent_color": null,
+                    "avatar": "c2126625f5397fd0b4a5626dd4216f6d",
+                    "avatar_decoration_data": {
+                        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+                        "expires_at": null,
+                        "sku_id": "1293373563184877618"
+                    },
+                    "banner": null,
+                    "banner_color": null,
+                    "clan": null,
+                    "collectibles": null,
+                    "discriminator": "0",
+                    "display_name_styles": {
+                        "colors": [],
+                        "effect_id": 1,
+                        "font_id": 11
+                    },
+                    "flags": 128,
+                    "global_name": null,
+                    "id": "588040592018374657",
+                    "primary_guild": null,
+                    "public_flags": 128,
+                    "username": "easternstride"
+                },
+                "channel_id": "1263607840619364383",
+                "components": [],
+                "content": "ah",
+                "edited_timestamp": null,
+                "embeds": [],
+                "flags": 0,
+                "hit": true,
+                "id": "1476283502612971715",
+                "mention_everyone": false,
+                "mention_roles": [],
+                "mentions": [],
+                "pinned": false,
+                "timestamp": "2026-02-25T18:23:35.044000+00:00",
+                "tts": false,
+                "type": 0
+            }
+        ],
+        [
+            {
+                "attachments": [],
+                "author": {
+                    "accent_color": null,
+                    "avatar": "c2126625f5397fd0b4a5626dd4216f6d",
+                    "avatar_decoration_data": {
+                        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+                        "expires_at": null,
+                        "sku_id": "1293373563184877618"
+                    },
+                    "banner": null,
+                    "banner_color": null,
+                    "clan": null,
+                    "collectibles": null,
+                    "discriminator": "0",
+                    "display_name_styles": {
+                        "colors": [],
+                        "effect_id": 1,
+                        "font_id": 11
+                    },
+                    "flags": 128,
+                    "global_name": null,
+                    "id": "588040592018374657",
+                    "primary_guild": null,
+                    "public_flags": 128,
+                    "username": "easternstride"
+                },
+                "channel_id": "1263607840619364383",
+                "components": [],
+                "content": "we dont know yet, well have to wait and see",
+                "edited_timestamp": null,
+                "embeds": [],
+                "flags": 0,
+                "hit": true,
+                "id": "1476283466453880863",
+                "mention_everyone": false,
+                "mention_roles": [],
+                "mentions": [],
+                "pinned": false,
+                "timestamp": "2026-02-25T18:23:26.423000+00:00",
+                "tts": false,
+                "type": 0
+            }
+        ],
+        [
+            {
+                "attachments": [],
+                "author": {
+                    "accent_color": null,
+                    "avatar": "c2126625f5397fd0b4a5626dd4216f6d",
+                    "avatar_decoration_data": {
+                        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+                        "expires_at": null,
+                        "sku_id": "1293373563184877618"
+                    },
+                    "banner": null,
+                    "banner_color": null,
+                    "clan": null,
+                    "collectibles": null,
+                    "discriminator": "0",
+                    "display_name_styles": {
+                        "colors": [],
+                        "effect_id": 1,
+                        "font_id": 11
+                    },
+                    "flags": 128,
+                    "global_name": null,
+                    "id": "588040592018374657",
+                    "primary_guild": null,
+                    "public_flags": 128,
+                    "username": "easternstride"
+                },
+                "channel_id": "1263607840619364383",
+                "components": [],
+                "content": "i answered it",
+                "edited_timestamp": null,
+                "embeds": [],
+                "flags": 0,
+                "hit": true,
+                "id": "1476283440046538778",
+                "mention_everyone": false,
+                "mention_roles": [],
+                "mentions": [
+                    {
+                        "accent_color": null,
+                        "avatar": "f179d5281bc6f8242bb618d669d15d2c",
+                        "avatar_decoration_data": null,
+                        "banner": null,
+                        "banner_color": null,
+                        "clan": {
+                            "badge": "ba987b6ec0c994443a696eebe039a5ed",
+                            "identity_enabled": true,
+                            "identity_guild_id": "927811764895227945",
+                            "tag": "SW"
+                        },
+                        "collectibles": null,
+                        "discriminator": "0",
+                        "display_name_styles": null,
+                        "flags": 0,
+                        "global_name": "\ud83d\udd25\u2728CHILL_KING\u2728\ud83d\udd25\ud83d\udc51",
+                        "id": "1472440061264924764",
+                        "primary_guild": {
+                            "badge": "ba987b6ec0c994443a696eebe039a5ed",
+                            "identity_enabled": true,
+                            "identity_guild_id": "927811764895227945",
+                            "tag": "SW"
+                        },
+                        "public_flags": 0,
+                        "username": "ntro_king12"
+                    }
+                ],
+                "message_reference": {
+                    "channel_id": "1263607840619364383",
+                    "guild_id": "1002370359921758370",
+                    "message_id": "1476283400678543390",
+                    "type": 0
+                },
+                "pinned": false,
+                "timestamp": "2026-02-25T18:23:20.127000+00:00",
+                "tts": false,
+                "type": 19
+            }
+        ],
+        [
+            {
+                "attachments": [],
+                "author": {
+                    "accent_color": null,
+                    "avatar": "c2126625f5397fd0b4a5626dd4216f6d",
+                    "avatar_decoration_data": {
+                        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+                        "expires_at": null,
+                        "sku_id": "1293373563184877618"
+                    },
+                    "banner": null,
+                    "banner_color": null,
+                    "clan": null,
+                    "collectibles": null,
+                    "discriminator": "0",
+                    "display_name_styles": {
+                        "colors": [],
+                        "effect_id": 1,
+                        "font_id": 11
+                    },
+                    "flags": 128,
+                    "global_name": null,
+                    "id": "588040592018374657",
+                    "primary_guild": null,
+                    "public_flags": 128,
+                    "username": "easternstride"
+                },
+                "channel_id": "1263607840619364383",
+                "components": [],
+                "content": "i do, when the bot is back up",
+                "edited_timestamp": null,
+                "embeds": [],
+                "flags": 0,
+                "hit": true,
+                "id": "1476283424842190948",
+                "mention_everyone": false,
+                "mention_roles": [],
+                "mentions": [
+                    {
+                        "accent_color": null,
+                        "avatar": "c21416f4d7fd21a6d0fcd95c07779fc1",
+                        "avatar_decoration_data": null,
+                        "banner": null,
+                        "banner_color": null,
+                        "clan": null,
+                        "collectibles": null,
+                        "discriminator": "0",
+                        "display_name_styles": null,
+                        "flags": 0,
+                        "global_name": "911",
+                        "id": "984156794320478250",
+                        "primary_guild": null,
+                        "public_flags": 0,
+                        "username": "_._.911._._"
+                    }
+                ],
+                "message_reference": {
+                    "channel_id": "1263607840619364383",
+                    "guild_id": "1002370359921758370",
+                    "message_id": "1476283346677137448",
+                    "type": 0
+                },
+                "pinned": false,
+                "timestamp": "2026-02-25T18:23:16.502000+00:00",
+                "tts": false,
+                "type": 19
+            }
+        ],
+        [
+            {
+                "attachments": [],
+                "author": {
+                    "accent_color": null,
+                    "avatar": "c2126625f5397fd0b4a5626dd4216f6d",
+                    "avatar_decoration_data": {
+                        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+                        "expires_at": null,
+                        "sku_id": "1293373563184877618"
+                    },
+                    "banner": null,
+                    "banner_color": null,
+                    "clan": null,
+                    "collectibles": null,
+                    "discriminator": "0",
+                    "display_name_styles": {
+                        "colors": [],
+                        "effect_id": 1,
+                        "font_id": 11
+                    },
+                    "flags": 128,
+                    "global_name": null,
+                    "id": "588040592018374657",
+                    "primary_guild": null,
+                    "public_flags": 128,
+                    "username": "easternstride"
+                },
+                "channel_id": "1263607840619364383",
+                "components": [],
+                "content": "ty",
+                "edited_timestamp": null,
+                "embeds": [],
+                "flags": 0,
+                "hit": true,
+                "id": "1476283384274878584",
+                "mention_everyone": false,
+                "mention_roles": [],
+                "mentions": [],
+                "pinned": false,
+                "timestamp": "2026-02-25T18:23:06.830000+00:00",
+                "tts": false,
+                "type": 0
+            }
+        ],
+        [
+            {
+                "attachments": [],
+                "author": {
+                    "accent_color": null,
+                    "avatar": "c2126625f5397fd0b4a5626dd4216f6d",
+                    "avatar_decoration_data": {
+                        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+                        "expires_at": null,
+                        "sku_id": "1293373563184877618"
+                    },
+                    "banner": null,
+                    "banner_color": null,
+                    "clan": null,
+                    "collectibles": null,
+                    "discriminator": "0",
+                    "display_name_styles": {
+                        "colors": [],
+                        "effect_id": 1,
+                        "font_id": 11
+                    },
+                    "flags": 128,
+                    "global_name": null,
+                    "id": "588040592018374657",
+                    "primary_guild": null,
+                    "public_flags": 128,
+                    "username": "easternstride"
+                },
+                "channel_id": "1263607840619364383",
+                "components": [],
+                "content": "alr",
+                "edited_timestamp": null,
+                "embeds": [],
+                "flags": 0,
+                "hit": true,
+                "id": "1476283379006832772",
+                "mention_everyone": false,
+                "mention_roles": [],
+                "mentions": [
+                    {
+                        "accent_color": null,
+                        "avatar": "ae8982ca8430d262c5e4adad8e83f3e4",
+                        "avatar_decoration_data": {
+                            "asset": "a_8d31b6b853913a2811916a2d8678b747",
+                            "expires_at": null,
+                            "sku_id": "1420225379246805012"
+                        },
+                        "banner": null,
+                        "banner_color": null,
+                        "clan": {
+                            "badge": "eac3e8b8d6774cd33d8cd27fd7c0a2ff",
+                            "identity_enabled": true,
+                            "identity_guild_id": "1306714913539887237",
+                            "tag": "25ms"
+                        },
+                        "collectibles": {
+                            "nameplate": {
+                                "asset": "nameplates/nameplate_bonanza/planet_rings/",
+                                "label": "COLLECTIBLES_NAMEPLATE_BONANZA_PLANET_RINGS_NP_A11Y",
+                                "palette": "cobalt",
+                                "sku_id": "1417311919689170984"
+                            }
+                        },
+                        "discriminator": "0",
+                        "display_name_styles": null,
+                        "flags": 64,
+                        "global_name": "Laith",
+                        "id": "1016732814936391791",
+                        "primary_guild": {
+                            "badge": "eac3e8b8d6774cd33d8cd27fd7c0a2ff",
+                            "identity_enabled": true,
+                            "identity_guild_id": "1306714913539887237",
+                            "tag": "25ms"
+                        },
+                        "public_flags": 64,
+                        "username": "_qxx0o."
+                    }
+                ],
+                "message_reference": {
+                    "channel_id": "1263607840619364383",
+                    "guild_id": "1002370359921758370",
+                    "message_id": "1476283344487715027",
+                    "type": 0
+                },
+                "pinned": false,
+                "timestamp": "2026-02-25T18:23:05.574000+00:00",
+                "tts": false,
+                "type": 19
+            }
+        ],
+        [
+            {
+                "attachments": [],
+                "author": {
+                    "accent_color": null,
+                    "avatar": "c2126625f5397fd0b4a5626dd4216f6d",
+                    "avatar_decoration_data": {
+                        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+                        "expires_at": null,
+                        "sku_id": "1293373563184877618"
+                    },
+                    "banner": null,
+                    "banner_color": null,
+                    "clan": null,
+                    "collectibles": null,
+                    "discriminator": "0",
+                    "display_name_styles": {
+                        "colors": [],
+                        "effect_id": 1,
+                        "font_id": 11
+                    },
+                    "flags": 128,
+                    "global_name": null,
+                    "id": "588040592018374657",
+                    "primary_guild": null,
+                    "public_flags": 128,
+                    "username": "easternstride"
+                },
+                "channel_id": "1263607840619364383",
+                "components": [],
+                "content": "shouldve used them all yesterday boy",
+                "edited_timestamp": null,
+                "embeds": [],
+                "flags": 0,
+                "hit": true,
+                "id": "1476283319695048764",
+                "mention_everyone": false,
+                "mention_roles": [],
+                "mentions": [
+                    {
+                        "accent_color": null,
+                        "avatar": "8c91f6197ec49238a5dcdc3806439ced",
+                        "avatar_decoration_data": {
+                            "asset": "a_13913a00bd9990ab4102a3bf069f0f3f",
+                            "expires_at": null,
+                            "sku_id": "1271174640026255380"
+                        },
+                        "banner": null,
+                        "banner_color": null,
+                        "clan": {
+                            "badge": "c1e4439afa95753a4bab531e3c4c42d1",
+                            "identity_enabled": true,
+                            "identity_guild_id": "1002370359921758370",
+                            "tag": "BGS"
+                        },
+                        "collectibles": null,
+                        "discriminator": "0",
+                        "display_name_styles": {
+                            "colors": [
+                                14963742,
+                                4718847
+                            ],
+                            "effect_id": 2,
+                            "font_id": 7
+                        },
+                        "flags": 64,
+                        "global_name": "Anni",
+                        "id": "911566699826933791",
+                        "primary_guild": {
+                            "badge": "c1e4439afa95753a4bab531e3c4c42d1",
+                            "identity_enabled": true,
+                            "identity_guild_id": "1002370359921758370",
+                            "tag": "BGS"
+                        },
+                        "public_flags": 64,
+                        "username": "anni2424"
+                    }
+                ],
+                "message_reference": {
+                    "channel_id": "1263607840619364383",
+                    "guild_id": "1002370359921758370",
+                    "message_id": "1476283250136846407",
+                    "type": 0
+                },
+                "pinned": false,
+                "timestamp": "2026-02-25T18:22:51.433000+00:00",
+                "tts": false,
+                "type": 19
+            }
+        ],
+        [
+            {
+                "attachments": [],
+                "author": {
+                    "accent_color": null,
+                    "avatar": "c2126625f5397fd0b4a5626dd4216f6d",
+                    "avatar_decoration_data": {
+                        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+                        "expires_at": null,
+                        "sku_id": "1293373563184877618"
+                    },
+                    "banner": null,
+                    "banner_color": null,
+                    "clan": null,
+                    "collectibles": null,
+                    "discriminator": "0",
+                    "display_name_styles": {
+                        "colors": [],
+                        "effect_id": 1,
+                        "font_id": 11
+                    },
+                    "flags": 128,
+                    "global_name": null,
+                    "id": "588040592018374657",
+                    "primary_guild": null,
+                    "public_flags": 128,
+                    "username": "easternstride"
+                },
+                "channel_id": "1263607840619364383",
+                "components": [],
+                "content": "<@1016732814936391791> <@1401063369859006584> please do not talk in suggestions, this includes replying to peoples suggestions",
+                "edited_timestamp": null,
+                "embeds": [],
+                "flags": 0,
+                "hit": true,
+                "id": "1476283269824778240",
+                "mention_everyone": false,
+                "mention_roles": [],
+                "mentions": [
+                    {
+                        "accent_color": null,
+                        "avatar": "5895b960f4857ecc08df7a1258896d1c",
+                        "avatar_decoration_data": null,
+                        "banner": null,
+                        "banner_color": null,
+                        "clan": null,
+                        "collectibles": null,
+                        "discriminator": "0",
+                        "display_name_styles": null,
+                        "flags": 0,
+                        "global_name": "Whitehole",
+                        "id": "1401063369859006584",
+                        "primary_guild": null,
+                        "public_flags": 0,
+                        "username": "whitehole0089"
+                    },
+                    {
+                        "accent_color": null,
+                        "avatar": "ae8982ca8430d262c5e4adad8e83f3e4",
+                        "avatar_decoration_data": {
+                            "asset": "a_8d31b6b853913a2811916a2d8678b747",
+                            "expires_at": null,
+                            "sku_id": "1420225379246805012"
+                        },
+                        "banner": null,
+                        "banner_color": null,
+                        "clan": {
+                            "badge": "eac3e8b8d6774cd33d8cd27fd7c0a2ff",
+                            "identity_enabled": true,
+                            "identity_guild_id": "1306714913539887237",
+                            "tag": "25ms"
+                        },
+                        "collectibles": {
+                            "nameplate": {
+                                "asset": "nameplates/nameplate_bonanza/planet_rings/",
+                                "label": "COLLECTIBLES_NAMEPLATE_BONANZA_PLANET_RINGS_NP_A11Y",
+                                "palette": "cobalt",
+                                "sku_id": "1417311919689170984"
+                            }
+                        },
+                        "discriminator": "0",
+                        "display_name_styles": null,
+                        "flags": 64,
+                        "global_name": "Laith",
+                        "id": "1016732814936391791",
+                        "primary_guild": {
+                            "badge": "eac3e8b8d6774cd33d8cd27fd7c0a2ff",
+                            "identity_enabled": true,
+                            "identity_guild_id": "1306714913539887237",
+                            "tag": "25ms"
+                        },
+                        "public_flags": 64,
+                        "username": "_qxx0o."
+                    }
+                ],
+                "pinned": false,
+                "timestamp": "2026-02-25T18:22:39.543000+00:00",
+                "tts": false,
+                "type": 0
+            }
+        ],
+        [
+            {
+                "attachments": [],
+                "author": {
+                    "accent_color": null,
+                    "avatar": "c2126625f5397fd0b4a5626dd4216f6d",
+                    "avatar_decoration_data": {
+                        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+                        "expires_at": null,
+                        "sku_id": "1293373563184877618"
+                    },
+                    "banner": null,
+                    "banner_color": null,
+                    "clan": null,
+                    "collectibles": null,
+                    "discriminator": "0",
+                    "display_name_styles": {
+                        "colors": [],
+                        "effect_id": 1,
+                        "font_id": 11
+                    },
+                    "flags": 128,
+                    "global_name": null,
+                    "id": "588040592018374657",
+                    "primary_guild": null,
+                    "public_flags": 128,
+                    "username": "easternstride"
+                },
+                "channel_id": "1263607840619364383",
+                "components": [],
+                "content": "we will have to wait and see",
+                "edited_timestamp": null,
+                "embeds": [],
+                "flags": 0,
+                "hit": true,
+                "id": "1476283078631620831",
+                "mention_everyone": false,
+                "mention_roles": [],
+                "mentions": [],
+                "pinned": false,
+                "timestamp": "2026-02-25T18:21:53.959000+00:00",
+                "tts": false,
+                "type": 0
+            }
+        ],
+        [
+            {
+                "attachments": [],
+                "author": {
+                    "accent_color": null,
+                    "avatar": "c2126625f5397fd0b4a5626dd4216f6d",
+                    "avatar_decoration_data": {
+                        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+                        "expires_at": null,
+                        "sku_id": "1293373563184877618"
+                    },
+                    "banner": null,
+                    "banner_color": null,
+                    "clan": null,
+                    "collectibles": null,
+                    "discriminator": "0",
+                    "display_name_styles": {
+                        "colors": [],
+                        "effect_id": 1,
+                        "font_id": 11
+                    },
+                    "flags": 128,
+                    "global_name": null,
+                    "id": "588040592018374657",
+                    "primary_guild": null,
+                    "public_flags": 128,
+                    "username": "easternstride"
+                },
+                "channel_id": "1263607840619364383",
+                "components": [],
+                "content": "we dont know yet",
+                "edited_timestamp": null,
+                "embeds": [],
+                "flags": 0,
+                "hit": true,
+                "id": "1476283059287359710",
+                "mention_everyone": false,
+                "mention_roles": [],
+                "mentions": [
+                    {
+                        "accent_color": null,
+                        "avatar": "f179d5281bc6f8242bb618d669d15d2c",
+                        "avatar_decoration_data": null,
+                        "banner": null,
+                        "banner_color": null,
+                        "clan": {
+                            "badge": "ba987b6ec0c994443a696eebe039a5ed",
+                            "identity_enabled": true,
+                            "identity_guild_id": "927811764895227945",
+                            "tag": "SW"
+                        },
+                        "collectibles": null,
+                        "discriminator": "0",
+                        "display_name_styles": null,
+                        "flags": 0,
+                        "global_name": "\ud83d\udd25\u2728CHILL_KING\u2728\ud83d\udd25\ud83d\udc51",
+                        "id": "1472440061264924764",
+                        "primary_guild": {
+                            "badge": "ba987b6ec0c994443a696eebe039a5ed",
+                            "identity_enabled": true,
+                            "identity_guild_id": "927811764895227945",
+                            "tag": "SW"
+                        },
+                        "public_flags": 0,
+                        "username": "ntro_king12"
+                    }
+                ],
+                "message_reference": {
+                    "channel_id": "1263607840619364383",
+                    "guild_id": "1002370359921758370",
+                    "message_id": "1476282257172857107",
+                    "type": 0
+                },
+                "pinned": false,
+                "timestamp": "2026-02-25T18:21:49.347000+00:00",
+                "tts": false,
+                "type": 19
+            }
+        ],
+        [
+            {
+                "attachments": [],
+                "author": {
+                    "accent_color": null,
+                    "avatar": "c2126625f5397fd0b4a5626dd4216f6d",
+                    "avatar_decoration_data": {
+                        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+                        "expires_at": null,
+                        "sku_id": "1293373563184877618"
+                    },
+                    "banner": null,
+                    "banner_color": null,
+                    "clan": null,
+                    "collectibles": null,
+                    "discriminator": "0",
+                    "display_name_styles": {
+                        "colors": [],
+                        "effect_id": 1,
+                        "font_id": 11
+                    },
+                    "flags": 128,
+                    "global_name": null,
+                    "id": "588040592018374657",
+                    "primary_guild": null,
+                    "public_flags": 128,
+                    "username": "easternstride"
+                },
+                "channel_id": "1263607840619364383",
+                "components": [],
+                "content": "np",
+                "edited_timestamp": null,
+                "embeds": [],
+                "flags": 0,
+                "hit": true,
+                "id": "1476282974059106499",
+                "mention_everyone": false,
+                "mention_roles": [],
+                "mentions": [
+                    {
+                        "accent_color": null,
+                        "avatar": "124bbff3cf96b878715063530fc03473",
+                        "avatar_decoration_data": {
+                            "asset": "a_fed43ab12698df65902ba06727e20c0e",
+                            "expires_at": null,
+                            "sku_id": "1144058844004233369"
+                        },
+                        "banner": null,
+                        "banner_color": null,
+                        "clan": {
+                            "badge": "d7f87511f1b91bc61b749aeff41312c2",
+                            "identity_enabled": true,
+                            "identity_guild_id": "1298185555754094604",
+                            "tag": "TS"
+                        },
+                        "collectibles": null,
+                        "discriminator": "0",
+                        "display_name_styles": null,
+                        "flags": 0,
+                        "global_name": "Gianluca",
+                        "id": "941036281406836759",
+                        "primary_guild": {
+                            "badge": "d7f87511f1b91bc61b749aeff41312c2",
+                            "identity_enabled": true,
+                            "identity_guild_id": "1298185555754094604",
+                            "tag": "TS"
+                        },
+                        "public_flags": 0,
+                        "username": "gianlucakin"
+                    }
+                ],
+                "message_reference": {
+                    "channel_id": "1263607840619364383",
+                    "guild_id": "1002370359921758370",
+                    "message_id": "1476282946637004861",
+                    "type": 0
+                },
+                "pinned": false,
+                "timestamp": "2026-02-25T18:21:29.027000+00:00",
+                "tts": false,
+                "type": 19
+            }
+        ],
+        [
+            {
+                "attachments": [],
+                "author": {
+                    "accent_color": null,
+                    "avatar": "c2126625f5397fd0b4a5626dd4216f6d",
+                    "avatar_decoration_data": {
+                        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+                        "expires_at": null,
+                        "sku_id": "1293373563184877618"
+                    },
+                    "banner": null,
+                    "banner_color": null,
+                    "clan": null,
+                    "collectibles": null,
+                    "discriminator": "0",
+                    "display_name_styles": {
+                        "colors": [],
+                        "effect_id": 1,
+                        "font_id": 11
+                    },
+                    "flags": 128,
+                    "global_name": null,
+                    "id": "588040592018374657",
+                    "primary_guild": null,
+                    "public_flags": 128,
+                    "username": "easternstride"
+                },
+                "channel_id": "1263607840619364383",
+                "components": [],
+                "content": "<a:pensive_wobble:868981677622456330>",
+                "edited_timestamp": null,
+                "embeds": [],
+                "flags": 0,
+                "hit": true,
+                "id": "1476282960582803690",
+                "mention_everyone": false,
+                "mention_roles": [],
+                "mentions": [],
+                "pinned": false,
+                "timestamp": "2026-02-25T18:21:25.814000+00:00",
+                "tts": false,
+                "type": 0
+            }
+        ],
+        [
+            {
+                "attachments": [],
+                "author": {
+                    "accent_color": null,
+                    "avatar": "c2126625f5397fd0b4a5626dd4216f6d",
+                    "avatar_decoration_data": {
+                        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+                        "expires_at": null,
+                        "sku_id": "1293373563184877618"
+                    },
+                    "banner": null,
+                    "banner_color": null,
+                    "clan": null,
+                    "collectibles": null,
+                    "discriminator": "0",
+                    "display_name_styles": {
+                        "colors": [],
+                        "effect_id": 1,
+                        "font_id": 11
+                    },
+                    "flags": 128,
+                    "global_name": null,
+                    "id": "588040592018374657",
+                    "primary_guild": null,
+                    "public_flags": 128,
+                    "username": "easternstride"
+                },
+                "channel_id": "1263607840619364383",
+                "components": [],
+                "content": "you had 81",
+                "edited_timestamp": null,
+                "embeds": [],
+                "flags": 0,
+                "hit": true,
+                "id": "1476282900461785239",
+                "mention_everyone": false,
+                "mention_roles": [],
+                "mentions": [],
+                "pinned": false,
+                "timestamp": "2026-02-25T18:21:11.480000+00:00",
+                "tts": false,
+                "type": 0
+            }
+        ],
+        [
+            {
+                "attachments": [],
+                "author": {
+                    "accent_color": null,
+                    "avatar": "c2126625f5397fd0b4a5626dd4216f6d",
+                    "avatar_decoration_data": {
+                        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+                        "expires_at": null,
+                        "sku_id": "1293373563184877618"
+                    },
+                    "banner": null,
+                    "banner_color": null,
+                    "clan": null,
+                    "collectibles": null,
+                    "discriminator": "0",
+                    "display_name_styles": {
+                        "colors": [],
+                        "effect_id": 1,
+                        "font_id": 11
+                    },
+                    "flags": 128,
+                    "global_name": null,
+                    "id": "588040592018374657",
+                    "primary_guild": null,
+                    "public_flags": 128,
+                    "username": "easternstride"
+                },
+                "channel_id": "1263607840619364383",
+                "components": [],
+                "content": "lets see",
+                "edited_timestamp": null,
+                "embeds": [],
+                "flags": 0,
+                "hit": true,
+                "id": "1476282855955894465",
+                "mention_everyone": false,
+                "mention_roles": [],
+                "mentions": [],
+                "pinned": false,
+                "timestamp": "2026-02-25T18:21:00.869000+00:00",
+                "tts": false,
+                "type": 0
+            }
+        ],
+        [
+            {
+                "attachments": [],
+                "author": {
+                    "accent_color": null,
+                    "avatar": "c2126625f5397fd0b4a5626dd4216f6d",
+                    "avatar_decoration_data": {
+                        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+                        "expires_at": null,
+                        "sku_id": "1293373563184877618"
+                    },
+                    "banner": null,
+                    "banner_color": null,
+                    "clan": null,
+                    "collectibles": null,
+                    "discriminator": "0",
+                    "display_name_styles": {
+                        "colors": [],
+                        "effect_id": 1,
+                        "font_id": 11
+                    },
+                    "flags": 128,
+                    "global_name": null,
+                    "id": "588040592018374657",
+                    "primary_guild": null,
+                    "public_flags": 128,
+                    "username": "easternstride"
+                },
+                "channel_id": "1263607840619364383",
+                "components": [],
+                "content": "im not sure actually",
+                "edited_timestamp": null,
+                "embeds": [],
+                "flags": 0,
+                "hit": true,
+                "id": "1476282851035975743",
+                "mention_everyone": false,
+                "mention_roles": [],
+                "mentions": [],
+                "pinned": false,
+                "timestamp": "2026-02-25T18:20:59.696000+00:00",
+                "tts": false,
+                "type": 0
+            }
+        ],
+        [
+            {
+                "attachments": [],
+                "author": {
+                    "accent_color": null,
+                    "avatar": "c2126625f5397fd0b4a5626dd4216f6d",
+                    "avatar_decoration_data": {
+                        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+                        "expires_at": null,
+                        "sku_id": "1293373563184877618"
+                    },
+                    "banner": null,
+                    "banner_color": null,
+                    "clan": null,
+                    "collectibles": null,
+                    "discriminator": "0",
+                    "display_name_styles": {
+                        "colors": [],
+                        "effect_id": 1,
+                        "font_id": 11
+                    },
+                    "flags": 128,
+                    "global_name": null,
+                    "id": "588040592018374657",
+                    "primary_guild": null,
+                    "public_flags": 128,
+                    "username": "easternstride"
+                },
+                "channel_id": "1263607840619364383",
+                "components": [],
+                "content": "brighto will be back",
+                "edited_timestamp": null,
+                "embeds": [],
+                "flags": 0,
+                "hit": true,
+                "id": "1476282817393725743",
+                "mention_everyone": false,
+                "mention_roles": [],
+                "mentions": [],
+                "pinned": false,
+                "timestamp": "2026-02-25T18:20:51.675000+00:00",
+                "tts": false,
+                "type": 0
+            }
+        ],
+        [
+            {
+                "attachments": [],
+                "author": {
+                    "accent_color": null,
+                    "avatar": "c2126625f5397fd0b4a5626dd4216f6d",
+                    "avatar_decoration_data": {
+                        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+                        "expires_at": null,
+                        "sku_id": "1293373563184877618"
+                    },
+                    "banner": null,
+                    "banner_color": null,
+                    "clan": null,
+                    "collectibles": null,
+                    "discriminator": "0",
+                    "display_name_styles": {
+                        "colors": [],
+                        "effect_id": 1,
+                        "font_id": 11
+                    },
+                    "flags": 128,
+                    "global_name": null,
+                    "id": "588040592018374657",
+                    "primary_guild": null,
+                    "public_flags": 128,
+                    "username": "easternstride"
+                },
+                "channel_id": "1263607840619364383",
+                "components": [],
+                "content": "hello",
+                "edited_timestamp": null,
+                "embeds": [],
+                "flags": 0,
+                "hit": true,
+                "id": "1476282633897119788",
+                "mention_everyone": false,
+                "mention_roles": [],
+                "mentions": [
+                    {
+                        "accent_color": null,
+                        "avatar": "f179d5281bc6f8242bb618d669d15d2c",
+                        "avatar_decoration_data": null,
+                        "banner": null,
+                        "banner_color": null,
+                        "clan": {
+                            "badge": "ba987b6ec0c994443a696eebe039a5ed",
+                            "identity_enabled": true,
+                            "identity_guild_id": "927811764895227945",
+                            "tag": "SW"
+                        },
+                        "collectibles": null,
+                        "discriminator": "0",
+                        "display_name_styles": null,
+                        "flags": 0,
+                        "global_name": "\ud83d\udd25\u2728CHILL_KING\u2728\ud83d\udd25\ud83d\udc51",
+                        "id": "1472440061264924764",
+                        "primary_guild": {
+                            "badge": "ba987b6ec0c994443a696eebe039a5ed",
+                            "identity_enabled": true,
+                            "identity_guild_id": "927811764895227945",
+                            "tag": "SW"
+                        },
+                        "public_flags": 0,
+                        "username": "ntro_king12"
+                    }
+                ],
+                "message_reference": {
+                    "channel_id": "1263607840619364383",
+                    "guild_id": "1002370359921758370",
+                    "message_id": "1476282606810169355",
+                    "type": 0
+                },
+                "pinned": false,
+                "timestamp": "2026-02-25T18:20:07.926000+00:00",
+                "tts": false,
+                "type": 19
+            }
+        ],
+        [
+            {
+                "attachments": [],
+                "author": {
+                    "accent_color": null,
+                    "avatar": "c2126625f5397fd0b4a5626dd4216f6d",
+                    "avatar_decoration_data": {
+                        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+                        "expires_at": null,
+                        "sku_id": "1293373563184877618"
+                    },
+                    "banner": null,
+                    "banner_color": null,
+                    "clan": null,
+                    "collectibles": null,
+                    "discriminator": "0",
+                    "display_name_styles": {
+                        "colors": [],
+                        "effect_id": 1,
+                        "font_id": 11
+                    },
+                    "flags": 128,
+                    "global_name": null,
+                    "id": "588040592018374657",
+                    "primary_guild": null,
+                    "public_flags": 128,
+                    "username": "easternstride"
+                },
+                "channel_id": "1263607840619364383",
+                "components": [],
+                "content": "ngl",
+                "edited_timestamp": null,
+                "embeds": [],
+                "flags": 0,
+                "hit": true,
+                "id": "1476282613864857731",
+                "mention_everyone": false,
+                "mention_roles": [],
+                "mentions": [],
+                "pinned": false,
+                "timestamp": "2026-02-25T18:20:03.150000+00:00",
+                "tts": false,
+                "type": 0
+            }
+        ],
+        [
+            {
+                "attachments": [],
+                "author": {
+                    "accent_color": null,
+                    "avatar": "c2126625f5397fd0b4a5626dd4216f6d",
+                    "avatar_decoration_data": {
+                        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+                        "expires_at": null,
+                        "sku_id": "1293373563184877618"
+                    },
+                    "banner": null,
+                    "banner_color": null,
+                    "clan": null,
+                    "collectibles": null,
+                    "discriminator": "0",
+                    "display_name_styles": {
+                        "colors": [],
+                        "effect_id": 1,
+                        "font_id": 11
+                    },
+                    "flags": 128,
+                    "global_name": null,
+                    "id": "588040592018374657",
+                    "primary_guild": null,
+                    "public_flags": 128,
+                    "username": "easternstride"
+                },
+                "channel_id": "1263607840619364383",
+                "components": [],
+                "content": "i think it crashed",
+                "edited_timestamp": null,
+                "embeds": [],
+                "flags": 0,
+                "hit": true,
+                "id": "1476282604591255706",
+                "mention_everyone": false,
+                "mention_roles": [],
+                "mentions": [],
+                "pinned": false,
+                "timestamp": "2026-02-25T18:20:00.939000+00:00",
+                "tts": false,
+                "type": 0
+            }
+        ],
+        [
+            {
+                "attachments": [],
+                "author": {
+                    "accent_color": null,
+                    "avatar": "c2126625f5397fd0b4a5626dd4216f6d",
+                    "avatar_decoration_data": {
+                        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+                        "expires_at": null,
+                        "sku_id": "1293373563184877618"
+                    },
+                    "banner": null,
+                    "banner_color": null,
+                    "clan": null,
+                    "collectibles": null,
+                    "discriminator": "0",
+                    "display_name_styles": {
+                        "colors": [],
+                        "effect_id": 1,
+                        "font_id": 11
+                    },
+                    "flags": 128,
+                    "global_name": null,
+                    "id": "588040592018374657",
+                    "primary_guild": null,
+                    "public_flags": 128,
+                    "username": "easternstride"
+                },
+                "channel_id": "1263607840619364383",
+                "components": [],
+                "content": "lollll",
+                "edited_timestamp": null,
+                "embeds": [],
+                "flags": 0,
+                "hit": true,
+                "id": "1476282528401854557",
+                "mention_everyone": false,
+                "mention_roles": [],
+                "mentions": [],
+                "pinned": false,
+                "timestamp": "2026-02-25T18:19:42.774000+00:00",
+                "tts": false,
+                "type": 0
+            }
+        ],
+        [
+            {
+                "attachments": [],
+                "author": {
+                    "accent_color": null,
+                    "avatar": "c2126625f5397fd0b4a5626dd4216f6d",
+                    "avatar_decoration_data": {
+                        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+                        "expires_at": null,
+                        "sku_id": "1293373563184877618"
+                    },
+                    "banner": null,
+                    "banner_color": null,
+                    "clan": null,
+                    "collectibles": null,
+                    "discriminator": "0",
+                    "display_name_styles": {
+                        "colors": [],
+                        "effect_id": 1,
+                        "font_id": 11
+                    },
+                    "flags": 128,
+                    "global_name": null,
+                    "id": "588040592018374657",
+                    "primary_guild": null,
+                    "public_flags": 128,
+                    "username": "easternstride"
+                },
+                "channel_id": "1263607840619364383",
+                "components": [],
+                "content": "because the bot is down",
+                "edited_timestamp": null,
+                "embeds": [],
+                "flags": 0,
+                "hit": true,
+                "id": "1476282523708424275",
+                "mention_everyone": false,
+                "mention_roles": [],
+                "mentions": [],
+                "pinned": false,
+                "timestamp": "2026-02-25T18:19:41.655000+00:00",
+                "tts": false,
+                "type": 0
+            }
+        ],
+        [
+            {
+                "attachments": [],
+                "author": {
+                    "accent_color": null,
+                    "avatar": "c2126625f5397fd0b4a5626dd4216f6d",
+                    "avatar_decoration_data": {
+                        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+                        "expires_at": null,
+                        "sku_id": "1293373563184877618"
+                    },
+                    "banner": null,
+                    "banner_color": null,
+                    "clan": null,
+                    "collectibles": null,
+                    "discriminator": "0",
+                    "display_name_styles": {
+                        "colors": [],
+                        "effect_id": 1,
+                        "font_id": 11
+                    },
+                    "flags": 128,
+                    "global_name": null,
+                    "id": "588040592018374657",
+                    "primary_guild": null,
+                    "public_flags": 128,
+                    "username": "easternstride"
+                },
+                "channel_id": "1263607840619364383",
+                "components": [],
+                "content": "no",
+                "edited_timestamp": null,
+                "embeds": [],
+                "flags": 0,
+                "hit": true,
+                "id": "1476282510148370643",
+                "mention_everyone": false,
+                "mention_roles": [],
+                "mentions": [],
+                "pinned": false,
+                "timestamp": "2026-02-25T18:19:38.422000+00:00",
+                "tts": false,
+                "type": 0
+            }
+        ],
+        [
+            {
+                "attachments": [],
+                "author": {
+                    "accent_color": null,
+                    "avatar": "c2126625f5397fd0b4a5626dd4216f6d",
+                    "avatar_decoration_data": {
+                        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+                        "expires_at": null,
+                        "sku_id": "1293373563184877618"
+                    },
+                    "banner": null,
+                    "banner_color": null,
+                    "clan": null,
+                    "collectibles": null,
+                    "discriminator": "0",
+                    "display_name_styles": {
+                        "colors": [],
+                        "effect_id": 1,
+                        "font_id": 11
+                    },
+                    "flags": 128,
+                    "global_name": null,
+                    "id": "588040592018374657",
+                    "primary_guild": null,
+                    "public_flags": 128,
+                    "username": "easternstride"
+                },
+                "channel_id": "1263607840619364383",
+                "components": [],
+                "content": "the codes are all there",
+                "edited_timestamp": null,
+                "embeds": [],
+                "flags": 0,
+                "hit": true,
+                "id": "1476282453919535356",
+                "mention_everyone": false,
+                "mention_roles": [],
+                "mentions": [],
+                "pinned": false,
+                "timestamp": "2026-02-25T18:19:25.016000+00:00",
+                "tts": false,
+                "type": 0
+            }
+        ],
+        [
+            {
+                "attachments": [],
+                "author": {
+                    "accent_color": null,
+                    "avatar": "c2126625f5397fd0b4a5626dd4216f6d",
+                    "avatar_decoration_data": {
+                        "asset": "a_94191be95bb9c471ff17644f3639eb6d",
+                        "expires_at": null,
+                        "sku_id": "1293373563184877618"
+                    },
+                    "banner": null,
+                    "banner_color": null,
+                    "clan": null,
+                    "collectibles": null,
+                    "discriminator": "0",
+                    "display_name_styles": {
+                        "colors": [],
+                        "effect_id": 1,
+                        "font_id": 11
+                    },
+                    "flags": 128,
+                    "global_name": null,
+                    "id": "588040592018374657",
+                    "primary_guild": null,
+                    "public_flags": 128,
+                    "username": "easternstride"
+                },
+                "channel_id": "1263607840619364383",
+                "components": [],
+                "content": "https://nuke-tycoon-nuclear.fandom.com/wiki/Codes",
+                "edited_timestamp": null,
+                "embeds": [],
+                "flags": 0,
+                "hit": true,
+                "id": "1476282442087141538",
+                "mention_everyone": false,
+                "mention_roles": [],
+                "mentions": [
+                    {
+                        "accent_color": null,
+                        "avatar": "124bbff3cf96b878715063530fc03473",
+                        "avatar_decoration_data": {
+                            "asset": "a_fed43ab12698df65902ba06727e20c0e",
+                            "expires_at": null,
+                            "sku_id": "1144058844004233369"
+                        },
+                        "banner": null,
+                        "banner_color": null,
+                        "clan": {
+                            "badge": "d7f87511f1b91bc61b749aeff41312c2",
+                            "identity_enabled": true,
+                            "identity_guild_id": "1298185555754094604",
+                            "tag": "TS"
+                        },
+                        "collectibles": null,
+                        "discriminator": "0",
+                        "display_name_styles": null,
+                        "flags": 0,
+                        "global_name": "Gianluca",
+                        "id": "941036281406836759",
+                        "primary_guild": {
+                            "badge": "d7f87511f1b91bc61b749aeff41312c2",
+                            "identity_enabled": true,
+                            "identity_guild_id": "1298185555754094604",
+                            "tag": "TS"
+                        },
+                        "public_flags": 0,
+                        "username": "gianlucakin"
+                    }
+                ],
+                "message_reference": {
+                    "channel_id": "1263607840619364383",
+                    "guild_id": "1002370359921758370",
+                    "message_id": "1476282156610486295",
+                    "type": 0
+                },
+                "pinned": false,
+                "timestamp": "2026-02-25T18:19:22.195000+00:00",
+                "tts": false,
+                "type": 19
+            }
+        ]
+    ],
+    "total_results": 105882
+}
